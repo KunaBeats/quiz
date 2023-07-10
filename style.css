@@ -10,7 +10,7 @@
 }
 
 body {
-  height: 100vh;
+  height: 100dvh;
   margin: 0 auto;
   padding: 0;
   max-width: 680px;
@@ -140,9 +140,6 @@ header {
   cursor: pointer;
 }
 
-.each-answer-button:hover {
-  background-color: var(--hover-color);
-}
 
 /* TIMEBAR */
 
@@ -205,8 +202,8 @@ header {
 }
 
 .button-back:hover {
-    background-color: var(--hover-color);
-  }
+  background-color: var(--hover-color);
+}
 
 /* SCORE */
 
@@ -218,12 +215,12 @@ header {
   padding: 3em;
   display: flex;
   flex-direction: column;
-  justify-content:space-between;
+  justify-content: space-between;
   align-items: center;
   text-align: center;
 }
 
 .entry {
-    margin-bottom: 0;
-    margin-top: 0;
+  margin-bottom: 0;
+  margin-top: 0;
 }
