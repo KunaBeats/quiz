@@ -147,7 +147,7 @@ header {
   background-color: var(--font-color);
   border: 2px solid var(--dark-green);
   border-radius: 10%;
-  margin-top: 20px;
+  margin-top: 10px;
   width: 30%;
   height: 20px;
   margin-bottom: 25px;
@@ -155,7 +155,6 @@ header {
 
 .timebar {
   background-color: chartreuse;
-
   width: 100%;
   height: 16px;
   margin-bottom: 25px;
